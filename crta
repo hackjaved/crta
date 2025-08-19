@@ -1,0 +1,9 @@
+-----------------------------------------------CRTA-----------------------------------------------------
+
+So crta stands for certified red team analyst 
+crta is not same as pentesting
+apts -- advance persistant threat groups
+red team mimics the apts and find if there are any threats
+*** There are several steps followed byb rta and they follows as:-
+1) Extensive OSNIT -- Get all the information which is available in internet, Here the team tries to find the weakest link the profile, like from all the social media links like facebook, insta or linkdin profile of the organisation.
+2) Initial Access and Execution -- Gain fppthold into the env -- suppose an emp got a update to update his vpn, unknowingly he clicks the link because of which he installed the malicious software and actually that was phising link. This is how red team gains access of the system.
