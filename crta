@@ -7,3 +7,8 @@ red team mimics the apts and find if there are any threats
 *** There are several steps followed byb rta and they follows as:-
 1) Extensive OSNIT -- Get all the information which is available in internet, Here the team tries to find the weakest link the profile, like from all the social media links like facebook, insta or linkdin profile of the organisation.
 2) Initial Access and Execution -- Gain fppthold into the env -- suppose an emp got a update to update his vpn, unknowingly he clicks the link because of which he installed the malicious software and actually that was phising link. This is how red team gains access of the system.
+3) persistance and previlege Escalation:- runs malicious code in the system -- once the red teamer gets into the organisation they runs some powershell scripts in the background to get command and control over the infected system. and can even install more apps in there.
+and persistance is to maintain access even if the tool is closed, They create a hidden admin account and install a scheduled task that reopens a backdoor every time the system reboots. Even if the phishing tool is removed, they still have access.
+4) lateral movement with defensive evation:- Move across network without getting detected
+5) discovery and data collection:- collect the valuable data 
+6) data Exflitration and high level persistance:- Exfiltrate is to steal data and ensure long term access.
