@@ -12,3 +12,10 @@ and persistance is to maintain access even if the tool is closed, They create a 
 4) lateral movement with defensive evation:- Move across network without getting detected
 5) discovery and data collection:- collect the valuable data 
 6) data Exflitration and high level persistance:- Exfiltrate is to steal data and ensure long term access.
+
+C2 server -- command and control
+payload server -- even it is same as c2 server but the only difference is it only dilvers the malware that is intial code to the victim
+redirector server -- it redirects the the ip just like the proxy
+DMZ -- De-militarized zone -- suppose you are an outsider and want to enter the gate and access the basics like the reception, you can do it but if you want to go to internal network you need permissions from dmz
+MZ -- militerized zone -- it is like another secure zone inside a internal network where only accessed personals can be allowed.
+TTP -- Tactics, Techniques and Procedures -- These are the steps followed attackers 
